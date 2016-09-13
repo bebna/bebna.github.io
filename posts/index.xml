@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts-rsses on My New Hugo Site</title>
+    <link>https://bebna.github.io/posts/index.xml</link>
+    <description>Recent content in Posts-rsses on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 14 Sep 2016 00:20:06 +0200</lastBuildDate>
+    <atom:link href="https://bebna.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>first</title>
+      <link>https://bebna.github.io/posts/first/</link>
+      <pubDate>Wed, 14 Sep 2016 00:20:06 +0200</pubDate>
+      
+      <guid>https://bebna.github.io/posts/first/</guid>
+      <description>
+
+&lt;h1 id=&#34;first-entry-sample&#34;&gt;First entry sample&lt;/h1&gt;
+
+&lt;p&gt;laskjdl ajsdljsaldjsalk dkasjlsaj saldajs dloihf lihj iu rlki hihd ihd asdas
+asdhu qwinhdwqxoi feqiqwfcl hjindqasNASIunf NSAca woiudhaxSIushasliuhnleisadhuc&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
